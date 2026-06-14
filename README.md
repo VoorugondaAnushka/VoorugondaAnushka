@@ -1,4 +1,4 @@
-```md
+
 # About Me
 
 🔭 Currently building Full-Stack Web Applications and exploring Machine Learning solutions for real-world challenges<br><br>
@@ -14,7 +14,6 @@
 🚀 Passionate about building impactful software solutions, extracting insights from data, and solving problems through technology<br><br>
 
 ⚡ Always curious to learn emerging technologies and transform ideas into practical applications
-```
 
 
 ## 🌐 Socials:
