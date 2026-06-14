@@ -2,19 +2,12 @@
 # About Me
 
 🔭 Currently building Full-Stack Web Applications and exploring Machine Learning solutions for real-world challenges<br><br>
-
 🤝 Open to collaborating on Open Source, Web Development, Data Analytics, and AI/ML projects<br><br>
-
 📚 Continuously strengthening my skills in React.js, Node.js, Backend Development, Machine Learning, and Data Analytics<br><br>
-
 💡 Interested in System Design, Software Architecture, and Scalable Full-Stack Development practices<br><br>
-
 💬 Skilled in Python, Java, SQL, JavaScript, React, Power BI, Git/GitHub, and Data Analytics<br><br>
-
 🚀 Passionate about building impactful software solutions, extracting insights from data, and solving problems through technology<br><br>
-
 ⚡ Always curious to learn emerging technologies and transform ideas into practical applications
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anushka-voorugonda-831763330/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anushkavoorugonda05@gmail.com) 
