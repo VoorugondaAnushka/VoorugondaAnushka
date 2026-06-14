@@ -1,5 +1,20 @@
-# About Me:
-🔭 I'm currently working on Full-Stack Web Development and Machine Learning projects<br><br>👯 I'm looking to collaborate on Open Source, MERN Stack, Data Analytics, and AI/ML projects<br><br>🤝 I'm looking for help with Advanced React.js, System Design, and Scalable Backend Development<br><br>🌱 I'm currently learning React.js, Node.js, Express.js, MongoDB, Machine Learning, and Data Analytics<br><br>💬 Ask me about Python, SQL, JavaScript, Power BI, Data Analysis, Git/GitHub, and Web Development<br><br>⚡ Fun fact: I enjoy turning raw data into meaningful insights and building projects that solve real-world problems<br>
+```md
+# About Me
+
+🔭 Currently building Full-Stack Web Applications and exploring Machine Learning solutions for real-world challenges<br><br>
+
+🤝 Open to collaborating on Open Source, Web Development, Data Analytics, and AI/ML projects<br><br>
+
+📚 Continuously strengthening my skills in React.js, Node.js, Backend Development, Machine Learning, and Data Analytics<br><br>
+
+💡 Interested in System Design, Software Architecture, and Scalable Full-Stack Development practices<br><br>
+
+💬 Skilled in Python, Java, SQL, JavaScript, React, Power BI, Git/GitHub, and Data Analytics<br><br>
+
+🚀 Passionate about building impactful software solutions, extracting insights from data, and solving problems through technology<br><br>
+
+⚡ Always curious to learn emerging technologies and transform ideas into practical applications
+```
 
 
 ## 🌐 Socials:
